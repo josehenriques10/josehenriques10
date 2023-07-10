@@ -1,11 +1,12 @@
 ### Olá! Eu sou <em>José Henrique.</em> 👋
+##
 
 • 🎓 Graduado em Superior de Tecnologia em Gestão Pública; <br>
 • 💭 Buscando uma Pós; <br>
 • 😄 Pronouns: Ele/Dele; <br>
 • 🖥️ Estudando Desenvolvimento de Sistemas; <br>
 • 👨‍💻 Futuro &lt;devFulStack/&gt;.
-
+##
 ### 🖥 Tecnologias em uso!
 
 <div style="display: inline_block"><br>
