@@ -1,10 +1,9 @@
 ### Olá! Eu sou <em>José Henrique.</em> 👋
 
-
-• 🌱 Estudando HTML, CSS, JS e PYTHON; <br>
-• 😄 Pronouns: Ele/Dele; <br>
 • 🎓 Graduado em Superior de Tecnologia em Gestão Pública; <br>
 • 💭 Buscando uma Pós; <br>
+• 🌱 Estudando HTML, CSS, JS e PYTHON; <br>
+• 😄 Pronouns: Ele/Dele; <br>
 • 🖥️ Estudando Desenvolvimento de Sistemas; <br>
 • 👨‍💻 Futuro &lt;devFulStack/&gt;.
 
